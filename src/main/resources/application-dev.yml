@@ -21,3 +21,4 @@ spring:
 
     # criar uma variável de ambiente em: edit configurations > variável de ambiente > clicar em + > preencher :nome=SPRING_PROFILES_ACTIVE valor=dev
     # acessar localhost:8080/h2-console
+    # acessar localhost:8080/swagger-ui/index.html
